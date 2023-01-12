@@ -1,0 +1,6 @@
+pickles/*
+images/*
+train.csv
+test.csv
+sample_submission.csv
+__pycache__
