@@ -48,7 +48,7 @@ val: 0.079271, 0.883838
 
 This is considered the first very good result.
 
-### Replaced the cnn layer with a pretrained resnet50
+### Replaced the cnn layer with a pretrained resnet50 and stopped the training early
 train: 0.036295, 0.991162
 val: 0.030818, 0.954545
 
