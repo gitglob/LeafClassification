@@ -1,5 +1,6 @@
 pickles/*
 images/*
+models/*
 train.csv
 test.csv
 sample_submission.csv
